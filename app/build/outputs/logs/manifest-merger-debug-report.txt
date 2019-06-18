@@ -1,0 +1,231 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:2:1-80:12
+INJECTED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:2:1-80:12
+INJECTED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:2:1-80:12
+INJECTED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:2:1-80:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/cebc2f7792229693cb0026a75b7978eb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/b43581fbe13e8b01d5b73b944e35e2b9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/88803ec56c5e16b27efa5885cde4d2cc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/3b14832011092bde03d24690787100f6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/7496311c95b962fe7cc442161686a480/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/032642e0cc1b1bd883b5dcb5fda43f75/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/621d997461389d93709e38670d9fc5c1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/724cf0e08cb9c21cf5f838b687fbce12/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/9e712bed8122b5f1a44eeeae03396ec2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/3e1b6d7878955b0df6544366e65908bb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/2a4960a9daef232ce52dc76857f88787/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/c6f320bb20bffb749b235854c24de43f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/a9544c61580e75f2e9ea1998320b387b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/8b61aca653245de98276acad6fb675aa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/59406c54fc49d340c1b32510fa62b2ae/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/2111c49df9f4035235aad050a0ce8c8a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/4aaba1e88ed99294267d4a8ad96faa3b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2833ac97cc8b671126b78c72cb8ee3a5/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/927beddc68a95076924544098e182324/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2b063e97a28a92a9c7c6635f999461cf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/6e476fdf0cc79a60d29bba4e06377f5b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/510878244676dfaafe64334fe73aed5d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/ba319e17e1cc0c406a6e99c44960ee1a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/8f209e35bb0aaeda6365fc51df0251fc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/6cbc51164b070e95b3679a842c219c34/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/42fe5ec001b2841af2d8f7ffdbf51cd2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/5ff3fa86d73b14271493e688d413482c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5790c77c588e1aad19614a44a54f4d1c/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:2:1-80:12
+INJECTED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:2:1-80:12
+INJECTED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:2:1-80:12
+	package
+		ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:8:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:11:5-71
+	android:name
+		ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:11:22-68
+uses-permission#android.permission.CAMERA
+ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:13:5-64
+	android:name
+		ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:13:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:14:5-60
+	android:name
+		ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:14:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:15:5-70
+	android:name
+		ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:15:19-67
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:17:5-68
+	android:name
+		ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:17:22-65
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:19:22-75
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:21:5-79
+	android:name
+		ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:21:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:23:22-64
+uses-permission#android.permission.FLASHLIGHT
+ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:25:5-69
+	android:name
+		ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:25:22-66
+application
+ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:37:5-78:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/4aaba1e88ed99294267d4a8ad96faa3b/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/4aaba1e88ed99294267d4a8ad96faa3b/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2833ac97cc8b671126b78c72cb8ee3a5/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2833ac97cc8b671126b78c72cb8ee3a5/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/4aaba1e88ed99294267d4a8ad96faa3b/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:40:9-41
+	android:hardwareAccelerated
+		ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:41:9-44
+	android:icon
+		ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:39:9-45
+	android:allowBackup
+		ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:38:9-35
+	android:theme
+		ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:43:9-73
+activity#com.tian.videomergedemo.MainActivity
+ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:44:9-53:20
+	android:screenOrientation
+		ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:47:13-49
+	android:label
+		ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:46:13-45
+	android:name
+		ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:45:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:49:13-52:29
+action#android.intent.action.MAIN
+ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:50:17-69
+	android:name
+		ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:50:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:51:17-77
+	android:name
+		ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:51:27-74
+activity#com.tian.videomergedemo.RecordActivity
+ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:56:9-59:25
+	android:screenOrientation
+		ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:58:13-49
+	android:name
+		ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:57:13-66
+activity#com.tian.videomergedemo.EditVedioActivity
+ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:61:9-64:25
+	android:screenOrientation
+		ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:63:13-49
+	android:name
+		ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:62:13-69
+activity#com.tian.videomergedemo.VideoGridActivity
+ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:66:9-68:25
+	android:screenOrientation
+		ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:67:13-49
+	android:name
+		ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:66:19-75
+activity#com.tian.videomergedemo.AudioActivity
+ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:70:9-72:25
+	android:screenOrientation
+		ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:71:13-49
+	android:name
+		ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:70:19-71
+activity#com.tian.videomergedemo.AudioEditActivity
+ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:73:9-75:25
+	android:screenOrientation
+		ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:74:13-49
+	android:name
+		ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml:73:19-75
+uses-sdk
+INJECTED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/cebc2f7792229693cb0026a75b7978eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/cebc2f7792229693cb0026a75b7978eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/b43581fbe13e8b01d5b73b944e35e2b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/b43581fbe13e8b01d5b73b944e35e2b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/88803ec56c5e16b27efa5885cde4d2cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/88803ec56c5e16b27efa5885cde4d2cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/3b14832011092bde03d24690787100f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/3b14832011092bde03d24690787100f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/7496311c95b962fe7cc442161686a480/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/7496311c95b962fe7cc442161686a480/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/032642e0cc1b1bd883b5dcb5fda43f75/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/032642e0cc1b1bd883b5dcb5fda43f75/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/621d997461389d93709e38670d9fc5c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/621d997461389d93709e38670d9fc5c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/724cf0e08cb9c21cf5f838b687fbce12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/724cf0e08cb9c21cf5f838b687fbce12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/9e712bed8122b5f1a44eeeae03396ec2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/9e712bed8122b5f1a44eeeae03396ec2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/3e1b6d7878955b0df6544366e65908bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/3e1b6d7878955b0df6544366e65908bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/2a4960a9daef232ce52dc76857f88787/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/2a4960a9daef232ce52dc76857f88787/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/c6f320bb20bffb749b235854c24de43f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/c6f320bb20bffb749b235854c24de43f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/a9544c61580e75f2e9ea1998320b387b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/a9544c61580e75f2e9ea1998320b387b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/8b61aca653245de98276acad6fb675aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/8b61aca653245de98276acad6fb675aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/59406c54fc49d340c1b32510fa62b2ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/59406c54fc49d340c1b32510fa62b2ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/2111c49df9f4035235aad050a0ce8c8a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/2111c49df9f4035235aad050a0ce8c8a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/4aaba1e88ed99294267d4a8ad96faa3b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/4aaba1e88ed99294267d4a8ad96faa3b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2833ac97cc8b671126b78c72cb8ee3a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2833ac97cc8b671126b78c72cb8ee3a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/927beddc68a95076924544098e182324/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/927beddc68a95076924544098e182324/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2b063e97a28a92a9c7c6635f999461cf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2b063e97a28a92a9c7c6635f999461cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/6e476fdf0cc79a60d29bba4e06377f5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/6e476fdf0cc79a60d29bba4e06377f5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/510878244676dfaafe64334fe73aed5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/510878244676dfaafe64334fe73aed5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/ba319e17e1cc0c406a6e99c44960ee1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/ba319e17e1cc0c406a6e99c44960ee1a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/8f209e35bb0aaeda6365fc51df0251fc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/8f209e35bb0aaeda6365fc51df0251fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/6cbc51164b070e95b3679a842c219c34/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/6cbc51164b070e95b3679a842c219c34/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/42fe5ec001b2841af2d8f7ffdbf51cd2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/42fe5ec001b2841af2d8f7ffdbf51cd2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/5ff3fa86d73b14271493e688d413482c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/5ff3fa86d73b14271493e688d413482c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5790c77c588e1aad19614a44a54f4d1c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/rtvt-04/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5790c77c588e1aad19614a44a54f4d1c/AndroidManifest.xml:20:5-44
+INJECTED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/src/main/AndroidManifest.xml

@@ -1,0 +1,4 @@
+#Mon Jun 17 13:21:42 CST 2019
+base.0=/Users/rtvt-04/AndroidStudioProjects/VideoMergeDemo1/app/build/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex
